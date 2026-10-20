@@ -17,4 +17,5 @@
   <img alt="SQLite" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="GitHub" height="40" width="50" src="https://cdn.simpleicons.org/github/FFFFFF">
+  <img alt="Claude" height="40" width="50" src="https://cdn.simpleicons.org/claude/D97757">
 </div>
